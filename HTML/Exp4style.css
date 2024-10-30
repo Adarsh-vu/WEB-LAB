@@ -1,0 +1,15 @@
+.caption{
+	color:white;
+	background-color:red;
+	padding:3px;
+	margin:8px;
+	font-size:22px;
+	font:bold;
+}
+
+img{
+	display:block;
+	margin-right:auto;
+	margin-left:auto;
+	width:30%;
+}
